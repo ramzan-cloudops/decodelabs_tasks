@@ -25,7 +25,8 @@ git commit -m "Add internship tasks"
 
 ### Screenshot
 
-<img width="870" height="500" alt="Git Repository Setup and Basic Workflow" src="YOUR-IMAGE-LINK-HERE" />
+<img width="518" height="264" alt="git-1" src="https://github.com/user-attachments/assets/62006be7-55dc-4f8a-b48c-95fb090d7063" />
+
 
 ---
 
@@ -52,7 +53,9 @@ git pull
 
 ### Screenshot
 
-<img width="870" height="500" alt="Git Remote Push and Pull" src="YOUR-IMAGE-LINK-HERE" />
+<img width="521" height="139" alt="git-2ss" src="https://github.com/user-attachments/assets/2a886840-925c-4800-8181-abbac7a4d94c" />
+
+<img width="560" height="214" alt="git-pull-4" src="https://github.com/user-attachments/assets/a2c5b892-10bd-4e12-aec2-787d14a1829f" />
 
 ---
 
@@ -71,7 +74,8 @@ git clone https://github.com/ramzan-cloudops/devops-intern-final
 
 ### Screenshot
 
-<img width="870" height="500" alt="Git Clone" src="YOUR-IMAGE-LINK-HERE" />
+<img width="633" height="132" alt="git-clon-5" src="https://github.com/user-attachments/assets/ccc109df-1f57-490b-9bf6-70c0573fc3e3" />
+
 
 ---
 
@@ -106,6 +110,6 @@ git branch -d master
 - `git branch -d master` — Deletes the `master` branch.
 
 ### Screenshot
+<img width="380" height="407" alt="git-branch6" src="https://github.com/user-attachments/assets/24bf9979-ee9e-482f-9f2d-3940903549cd" />
 
-<img width="870" height="500" alt="Git Branching and Branch Management" src="YOUR-IMAGE-LINK-HERE" />
 
